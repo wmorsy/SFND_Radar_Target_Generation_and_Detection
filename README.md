@@ -28,7 +28,7 @@ A = Bs/Tchirp;
 ```
 
 ## Simulation Loop
-Target movement has been simulated and mixed signal (beat) was calculate for every timestamp as follows:
+Target movement has been simulated and mixed signal (beat) was calculated for every timestamp as follows:
 
 ```Matlab
 %% Signal generation and Moving Target simulation
